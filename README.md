@@ -61,3 +61,21 @@ python scripts/analyze_ecommerce.py
 
 ## Important note
 The dataset is synthetic and generated for learning and portfolio demonstration. Findings are illustrative only. No real customer information is included.
+Power BI Dashboard
+
+This project includes Power BI preparation files for building an interactive e-commerce sales and delivery performance dashboard.
+
+Included files:
+
+- "measures.dax" – DAX measures for key performance indicators.
+- "dashboard_build_guide.md" – Step-by-step dashboard development guide.
+
+Planned dashboard insights:
+
+- Total orders and revenue
+- Sales performance by product category
+- Delivery performance by city
+- Order status analysis
+- Monthly sales trends
+
+Note: This is a simulated portfolio project created for learning and demonstration purposes.
