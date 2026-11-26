@@ -1,0 +1,11 @@
+delivery_city,total_orders,delivered_orders,cancelled_orders,cancellation_rate_pct
+Lagos,1286,1005,118,9.18
+Abuja,794,591,79,9.95
+Port Harcourt,603,463,50,8.29
+Enugu,503,391,50,9.94
+Ibadan,448,349,33,7.37
+Kano,381,286,41,10.76
+Benin City,292,236,22,7.53
+Uyo,248,188,18,7.26
+Owerri,241,194,18,7.47
+Minna,204,156,15,7.35

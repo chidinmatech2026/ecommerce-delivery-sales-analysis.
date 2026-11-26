@@ -1,0 +1,12 @@
+{
+  "dataset_rows": 5000,
+  "delivered_orders": 3859,
+  "in_transit_orders": 424,
+  "cancelled_orders": 444,
+  "returned_orders": 273,
+  "delivered_revenue_ngn": 199661784.61,
+  "average_delivered_order_value_ngn": 51739.25,
+  "cancellation_rate_pct": 8.88,
+  "return_rate_pct": 5.46,
+  "average_delivery_days_delivered": 3.54
+}
